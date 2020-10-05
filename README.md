@@ -16,6 +16,12 @@ Django startup port is 8080 but it will be requested by nginx 80 and 443 port pr
 
 ---
 
+### Version
+
+Python 3.7.2
+
+Django 3.1.2
+
 ### Run
 
 #### Normal
