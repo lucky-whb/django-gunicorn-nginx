@@ -1,0 +1,12 @@
+Django==3.1.2
+celery==4.3.0
+cymysql==0.9.13
+pymysql-manager==0.0.2
+redis==3.2.1
+django-redis
+djangorestframework
+cryptography
+xlrd
+requests
+django-cors-headers
+cryptography
